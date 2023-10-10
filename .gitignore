@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-apiConfig.js
+./src/utils/apiConfig.js
 # production
 /build
 
